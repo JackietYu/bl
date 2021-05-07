@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
+    "name": "jack-blog",
+    "title": "Jack Blog",
+    "author": "BY jack@ijackyu.com>",
     "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "homepage": " https://jackietyu.github.io/bl/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/jackietyu/jackietyu.github.io"
     },
-    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
+    "bugs": "https://github.com/jackietyu/jackietyu.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-contrib-less": "~0.11.4",
